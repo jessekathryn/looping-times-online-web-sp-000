@@ -1,5 +1,6 @@
 def using_times
-	#your code here
+ 3.using_times do
+   puts ""
 end
 
 
